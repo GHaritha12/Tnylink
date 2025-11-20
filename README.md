@@ -3,7 +3,7 @@
 A simple URL shortener built using Next.js, Prisma, PostgreSQL (Neon), and TailwindCSS.
 
 ## Live Demo
-👉 https://tinylink-xxxx.vercel.app
+👉 https://tinylink-6h0wz8iah-gharitha033-1423s-projects.vercel.app
 
 ## Features
 - Shorten long URLs  
